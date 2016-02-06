@@ -1,0 +1,28 @@
+name: amyrosen
+favicon: null
+layout_spectrum: 0.8915412661153823
+typography_spectrum: 0.2824272704310715
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.999271847307682
+  lightness: 0.6951975109986961
+  saturation: 0.4933435257989913
+  rhythmicContrast: 0.8478090132120997
+purpose: []
